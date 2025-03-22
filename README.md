@@ -1,5 +1,18 @@
 # Resource-Consumption-Analysis
 
+## Contents
+- [Overview](#overview)
+- [Key Findings](#key-findings)
+- [Project Structure](#project-structure)
+- [Files and Folders](#files-and-folders)
+- [Tools](#tools)
+- [Getting Started](#getting-started)
+- [Key Questions Addressed](#key-questions-addressed)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Dashboard Visuals](#dashboard-visuals)
+- [Insights for Action](#insights-for-action)
+
+
 ## Overview
 Analyze gas, water, and electricity consumption across major U.S. cities using MySQL and Excel to uncover insights and optimize resource usage.
 
