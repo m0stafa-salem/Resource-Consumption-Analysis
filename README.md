@@ -69,7 +69,19 @@ This project contains data, an SQL script, and a dashboard. Follow the steps bel
 2. **Import Data into MySQL**:
    ```bash
    mysql -u username -p energy_db < ./SQL/Energy_Project_SQL.sql
+## Dashboard Visuals
 
+The dashboard includes the following visualizations:
+- **Consumption by Building**: Bar chart comparing buildings (B1009, B1007, etc.).
+- **Seasonal Trends**: Line graph showing monthly consumption/cost patterns.
+- **Cost Breakdown**: Pie chart of utility-type costs (Electricity, Gas, Water).
+
+Below is a preview of the dashboard:
+
+![Dashboard Preview](./Visualization/DashBoard.png)
+*Figure 1: Preview of the Dashboard*
+
+For more details, refer to the [Visualization folder](./Visualization), which contains the full dashboard.
 ## Key Questions Addressed:
 1. What is the total energy consumption and cost across all utilities?
 2. Which buildings or cities have the highest energy demand?
