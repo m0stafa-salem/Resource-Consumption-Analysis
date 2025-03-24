@@ -48,13 +48,17 @@ The project is organized into three main folders:
 - **Excel**: Creating DashBoard
 
 ## Getting Started
-1. **Prerequisites**:  
-   - MySQL Server  
-   - Excel (for dashboard)  
-2. **Setup**:  
-   ```bash
-   # Import CSV files into MySQL
-   mysql -u username -p database_name < SQL/Energy_Project_SQL.sql
+
+This project contains data, an SQL script, and a dashboard. Follow the steps below to get started.
+
+### Prerequisites:
+- MySQL Server
+- Excel (for dashboard)
+
+### Setup:
+
+1. **Download the SQL Script**:
+   - [Energy Project SQL](./Energy_Project_SQL.sql): This SQL script contains the schema and data for the project.
 
 ## Key Questions Addressed:
 1. What is the total energy consumption and cost across all utilities?
