@@ -69,3 +69,29 @@ This project contains data, an SQL script, and a dashboard. Follow the steps bel
 2. **Import Data into MySQL**:
    ```bash
    mysql -u username -p energy_db < ./SQL/Energy_Project_SQL.sql
+
+## Key Questions Addressed:
+1. What is the total energy consumption and cost across all utilities?
+2. Which buildings or cities have the highest energy demand?
+3. How do seasonal trends impact energy consumption and costs?
+4. Are there opportunities to optimize energy usage and reduce costs?
+
+## Key Performance Indicators (KPIs):
+- **Total Consumption**: 210.47 M units
+- Electricity: 108.06 M units
+- Gas: 3.01 M units
+- Water: 2.03 M units
+- **Total Cost**: $15.84M
+- Electricity: $12.45M (78.6%)
+- Gas: $2.31M (14.6%)
+- Water: $1.08M (6.8%)
+
+## Dashboard Visuals
+- **Consumption by Building**: Bar chart comparing buildings (B1009, B1007, etc.).
+- **Seasonal Trends**: Line graph showing monthly consumption/cost patterns.
+- **Cost Breakdown**: Pie chart of utility-type costs (Electricity, Gas, Water).
+
+## Insights for Action:
+- Identify buildings or cities with high energy demand for targeted efficiency programs.
+- Use seasonal trends to forecast future energy needs and costs.
+- Optimize resource allocation during peak consumption months to reduce expenses.
