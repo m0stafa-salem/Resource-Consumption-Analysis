@@ -68,4 +68,4 @@ This project contains data, an SQL script, and a dashboard. Follow the steps bel
 
 2. **Import Data into MySQL**:
    ```bash
-   mysql -u username -p database_name < ./SQL/Energy_Project_SQL.sql
+   mysql -u username -p energy_db < ./SQL/Energy_Project_SQL.sql
