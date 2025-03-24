@@ -79,9 +79,10 @@ The dashboard includes the following visualizations:
 Below is a preview of the dashboard:
 
 ![Dashboard Preview](./Visualization/DashBoard.png)
+
 *Figure 1: Preview of the Dashboard*
 
-For more details, refer to the [Visualization](./Visualization), which contains the full dashboard.
+For more details, go to the [Visualization](./Visualization), which contains the full dashboard.
 ## Key Questions Addressed:
 1. What is the total energy consumption and cost across all utilities?
 2. Which buildings or cities have the highest energy demand?
